@@ -378,9 +378,6 @@ export default function Home() {
               <Link href="https://www.linkedin.com/in/aftaab-siddiki" className="text-gray-400 hover:text-white transition-colors">
                 LinkedIn
               </Link>
-              <Link href="https://twitter.com/yourprofile" className="text-gray-400 hover:text-white transition-colors">
-                Twitter
-              </Link>
             </div>
           </div>
           <div className="mt-8 border-t border-gray-700 pt-6 text-center text-gray-500 text-sm">
